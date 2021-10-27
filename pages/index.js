@@ -14,6 +14,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1>Hello MBC Project</h1>
         <h3>This is demo about Amplify</h3>
+        <h3>This is demo about Amplify 2</h3>
 
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
