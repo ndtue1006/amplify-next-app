@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h2>Hello</h2>
+        <h2>Hello 2</h2>
         <h1>Hello MBC Project</h1>
         <h3>This is demo about Amplify</h3>
 
